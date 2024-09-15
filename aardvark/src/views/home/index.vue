@@ -2,7 +2,7 @@
   <div>
     <v-toolbar flat height="30" />
     <h1>
-      Edger 0.1.0
+      Edger 0.2.0
     </h1>
 
 
